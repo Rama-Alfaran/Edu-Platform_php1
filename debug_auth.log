@@ -1,0 +1,24 @@
+2025-09-22 16:17:17 POST: Array
+(
+    [socket_id] => 71921.20062985
+    [channel_name] => private-chat-1
+)
+ SESSION: Array
+(
+    [user_id] => 1
+    [role] => Teacher
+    [first_name] => Baraa
+)
+
+2025-09-22 16:18:42 POST: Array
+(
+    [socket_id] => 71908.21929347
+    [channel_name] => private-chat-1
+)
+ SESSION: Array
+(
+    [user_id] => 1
+    [role] => Teacher
+    [first_name] => Baraa
+)
+
