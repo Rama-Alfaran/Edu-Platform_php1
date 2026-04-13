@@ -41,3 +41,14 @@ This project is a lightweight web application built with **PHP** that enables:
 ---
 
 ## 📂 Project Structure
+Edu_platform/
+│── config/ # Configuration files
+│── db/ # Database files
+│── uploads/ # Uploaded files
+│── vendor/ # Composer dependencies
+│── chat.php # Chat system
+│── courses.php # Course management
+│── dashboard.php # Dashboard
+│── login.php # Login page
+│── register.php # Registration page
+│── index.php # Home page
